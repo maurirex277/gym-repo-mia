@@ -109,9 +109,13 @@ ob_end_flush();
 							<input type="password" id="password" name="password" class="form-control" placeholder="Contraseña">
 						</div>
 						<button class="btn btn-primary col-md-12 mx-auto py-3">Iniciar</button>
+
+						<div class="p-3">
+						<p><a href="assets/Manual_Ayuda/Manual.pdf" class="link-info link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"  target="_blank">Manual de ayuda</a></p>
+      					</div>
+
 					</form>
 				</div>
-			</div>
 		</div>
 	</main>
 
